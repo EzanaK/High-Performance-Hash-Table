@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="High_Performance_Hash_Table"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="High_Performance_Hash_Table">
+				<Option output="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/High_Performance_Hash_Table" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 High_Performance_Hash_Table"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="High_Performance_Hash_Table/fast">
+				<Option output="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/High_Performance_Hash_Table" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 High_Performance_Hash_Table/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/hash.c">
+			<Option target="High_Performance_Hash_Table"/>
+		</Unit>
+		<Unit filename="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/hash.h">
+			<Option target="High_Performance_Hash_Table"/>
+		</Unit>
+		<Unit filename="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/parse.c">
+			<Option target="High_Performance_Hash_Table"/>
+		</Unit>
+		<Unit filename="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/High-Performance_Hash_Table/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
